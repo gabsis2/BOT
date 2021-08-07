@@ -1,0 +1,16 @@
+{
+  "name": "dabdoub-prod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabsis",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.1",
+    "discord.js": "^12.5.3",
+    "setimmediate": "^1.0.5"
+  }
+}
